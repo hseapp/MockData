@@ -1,0 +1,16 @@
+{
+  "has_library_card": true,
+  "library_card_receive_link": "https://google.com",
+  "library_id": 106591,
+  "full_name": "Тестовый пользователь",
+  "barcode": "19040999",
+  "issued_date": "2019-02-16",
+  "user_agreement_acceptance_type": "USER_AGREEMENT_OFFLINE",
+
+  "remote_access": {
+    "has_remote_access": false,
+    "can_request_password": false,
+    "receive_link": "https://ya.ru",
+    "about_link": "https://vk.ru"
+  }
+}

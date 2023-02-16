@@ -1,0 +1,10 @@
+{
+  "has_library_card": false,
+  "library_card_receive_link": "https://google.com",
+  "remote_access": {
+    "has_remote_access": false,
+    "can_request_password": false,
+    "receive_link": "https://ya.ru",
+    "about_link": "https://vk.ru"
+  }
+}
