@@ -1,0 +1,268 @@
+{
+    "cafeteria_id": "cafeteria_2",
+    "sections":
+    [
+        {
+            "section_name": "Hot Dishes",
+            "items":
+            [
+                {
+                    "item_id": "dish_13",
+                    "item_name": "Pork Schnitzel",
+                    "photos":
+                    [
+                        "https://example.com/photos/dish_schnitzel_1.jpg",
+                        "https://example.com/photos/dish_schnitzel_2.jpg"
+                    ],
+                    "price": 420,
+                    "complex": true,
+                    "vegetarian_complex": false,
+                    "vegetarian": false,
+                    "dietary": false,
+                    "weight": "180g",
+                    "calories": "290 kcal",
+                    "composition": "Breaded pork schnitzel with potato salad"
+                },
+                {
+                    "item_id": "dish_14",
+                    "item_name": "Vegetable Stir-Fry",
+                    "photos":
+                    [
+                        "https://example.com/photos/dish_stirfry_1.jpg",
+                        "https://example.com/photos/dish_stirfry_2.jpg"
+                    ],
+                    "price": 350,
+                    "complex": true,
+                    "vegetarian_complex": true,
+                    "vegetarian": true,
+                    "dietary": true,
+                    "weight": "200g",
+                    "calories": "220 kcal",
+                    "composition": "Assorted vegetables stir-fried in a savory sauce"
+                },
+                {
+                    "item_id": "dish_15",
+                    "item_name": "Beef Teriyaki",
+                    "photos":
+                    [
+                        "https://example.com/photos/dish_teriyaki_1.jpg",
+                        "https://example.com/photos/dish_teriyaki_2.jpg"
+                    ],
+                    "price": 500,
+                    "complex": true,
+                    "vegetarian_complex": false,
+                    "vegetarian": false,
+                    "dietary": false,
+                    "weight": "220g",
+                    "calories": "340 kcal",
+                    "composition": "Tender beef strips in teriyaki sauce with rice"
+                }
+            ]
+        },
+        {
+            "section_name": "Salads",
+            "items":
+            [
+                {
+                    "item_id": "dish_16",
+                    "item_name": "Greek Salad",
+                    "photos":
+                    [
+                        "https://example.com/photos/dish_greek_1.jpg",
+                        "https://example.com/photos/dish_greek_2.jpg"
+                    ],
+                    "price": 220,
+                    "complex": false,
+                    "vegetarian_complex": false,
+                    "vegetarian": true,
+                    "dietary": true,
+                    "weight": "160g",
+                    "calories": "120 kcal",
+                    "composition": "Cucumbers, tomatoes, olives, feta cheese, olive oil"
+                },
+                {
+                    "item_id": "dish_17",
+                    "item_name": "Chicken Caesar Salad",
+                    "photos":
+                    [
+                        "https://example.com/photos/dish_caesar_1.jpg",
+                        "https://example.com/photos/dish_caesar_2.jpg"
+                    ],
+                    "price": 280,
+                    "complex": false,
+                    "vegetarian_complex": false,
+                    "vegetarian": false,
+                    "dietary": false,
+                    "weight": "180g",
+                    "calories": "220 kcal",
+                    "composition": "Grilled chicken, romaine lettuce, croutons, Caesar dressing"
+                },
+                {
+                    "item_id": "dish_18",
+                    "item_name": "Fruit Salad",
+                    "photos":
+                    [
+                        "https://example.com/photos/dish_fruit_1.jpg",
+                        "https://example.com/photos/dish_fruit_2.jpg"
+                    ],
+                    "price": 180,
+                    "complex": false,
+                    "vegetarian_complex": false,
+                    "vegetarian": true,
+                    "dietary": true,
+                    "weight": "150g",
+                    "calories": "90 kcal",
+                    "composition": "Assorted fresh fruits with a drizzle of honey"
+                },
+                {
+                    "item_id": "dish_19",
+                    "item_name": "Tuna Salad",
+                    "photos":
+                    [
+                        "https://example.com/photos/dish_tuna_1.jpg",
+                        "https://example.com/photos/dish_tuna_2.jpg"
+                    ],
+                    "price": 300,
+                    "complex": false,
+                    "vegetarian_complex": false,
+                    "vegetarian": false,
+                    "dietary": true,
+                    "weight": "170g",
+                    "calories": "180 kcal",
+                    "composition": "Tuna chunks, lettuce, tomatoes, olives, vinaigrette"
+                }
+            ]
+        },
+        {
+            "section_name": "Soups",
+            "items":
+            [
+                {
+                    "item_id": "dish_20",
+                    "item_name": "Tomato Basil Soup",
+                    "photos":
+                    [
+                        "https://example.com/photos/dish_soup_3.jpg",
+                        "https://example.com/photos/dish_soup_4.jpg"
+                    ],
+                    "price": 240,
+                    "complex": false,
+                    "vegetarian_complex": false,
+                    "vegetarian": true,
+                    "dietary": true,
+                    "weight": "220g",
+                    "calories": "160 kcal",
+                    "composition": "Tomato soup with fresh basil"
+                },
+                {
+                    "item_id": "dish_21",
+                    "item_name": "Mushroom Soup",
+                    "photos":
+                    [
+                        "https://example.com/photos/dish_soup_5.jpg",
+                        "https://example.com/photos/dish_soup_6.jpg"
+                    ],
+                    "price": 220,
+                    "complex": false,
+                    "vegetarian_complex": false,
+                    "vegetarian": true,
+                    "dietary": true,
+                    "weight": "200g",
+                    "calories": "180 kcal",
+                    "composition": "Creamy mushroom soup with herbs"
+                },
+                {
+                    "item_id": "dish_22",
+                    "item_name": "Lentil Soup",
+                    "photos":
+                    [
+                        "https://example.com/photos/dish_soup_7.jpg",
+                        "https://example.com/photos/dish_soup_8.jpg"
+                    ],
+                    "price": 200,
+                    "complex": false,
+                    "vegetarian_complex": false,
+                    "vegetarian": true,
+                    "dietary": true,
+                    "weight": "210g",
+                    "calories": "150 kcal",
+                    "composition": "Lentil soup with carrots and onions"
+                }
+            ]
+        },
+        {
+            "section_name": "Desserts",
+            "items":
+            [
+                {
+                    "item_id": "dish_23",
+                    "item_name": "Cheesecake",
+                    "photos":
+                    [
+                        "https://example.com/photos/dish_cheesecake_1.jpg",
+                        "https://example.com/photos/dish_cheesecake_2.jpg"
+                    ],
+                    "price": 250,
+                    "complex": false,
+                    "vegetarian_complex": false,
+                    "vegetarian": true,
+                    "dietary": true,
+                    "weight": "160g",
+                    "calories": "280 kcal",
+                    "composition": "Classic creamy cheesecake with berry topping"
+                },
+                {
+                    "item_id": "dish_24",
+                    "item_name": "Fruit Tart",
+                    "photos":
+                     [
+                        "https://picsum.photos/360/270",
+                        "https://picsum.photos/360/270"
+                    ],
+                    "price": 220,
+                    "complex": false,
+                    "vegetarian_complex": false,
+                    "vegetarian": true,
+                    "dietary": true,
+                    "weight": "150g",
+                    "calories": "190 kcal",
+                    "composition": "Buttery tart with fresh fruit and custard filling"
+                },
+                {
+                    "item_id": "dish_25",
+                    "item_name": "Raspberry Mousse",
+                    "photos":
+                     [
+                        "https://picsum.photos/360/270",
+                        "https://picsum.photos/360/270"
+                    ],
+                    "price": 280,
+                    "complex": false,
+                    "vegetarian_complex": false,
+                    "vegetarian": true,
+                    "dietary": true,
+                    "weight": "140g",
+                    "calories": "150 kcal",
+                    "composition": "Light and fluffy raspberry mousse"
+                },
+                {
+                    "item_id": "dish_26",
+                    "item_name": "Apple Strudel",
+                    "photos":
+                     [
+                        "https://picsum.photos/360/270",
+                        "https://picsum.photos/360/270"
+                    ],
+                    "price": 240,
+                    "complex": false,
+                    "vegetarian_complex": false,
+                    "vegetarian": true,
+                    "dietary": false,
+                    "weight": "170g",
+                    "calories": "220 kcal",
+                    "composition": "Traditional apple strudel with cinnamon and raisins"
+                }
+            ]
+        }
+    ]
+}

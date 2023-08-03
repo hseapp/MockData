@@ -1,0 +1,347 @@
+[
+    {
+        "cafeteria_id": "cafeteria_1",
+        "cafeteria_name": "Cafeteria on Pokrovka",
+        "photo": "https://picsum.photos/90",
+        "address": "Pokrovka Street, 11",
+        "coordinates":
+        {
+            "latitude": 55.760526,
+            "longitude": 37.639701
+        },
+        "distance_meters": 200,
+        "has_menu": true,
+        "description": "This cafeteria offers a variety of delicious meals for students and staff. This cafeteria offers a variety of delicious meals for students and staff. This cafeteria offers a variety of delicious meals for students and staff. This cafeteria offers a variety of delicious meals for students and staff.",
+        "navigation":
+        {
+            "floor": 4,
+            "room": 788
+        },
+        "photos":
+        [
+            "https://picsum.photos/360/270",
+            "https://picsum.photos/360/270",
+            "https://picsum.photos/360/270",
+            "https://picsum.photos/360/270"
+        ],
+        "banner": "Welcome to Cafeteria on Pokrovka!",
+        "current_load": "high",
+        "load":
+        [
+            {
+                "interval_duration": 30,
+                "expected_load": 5,
+                "actual_load": 4
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 4,
+                "actual_load": 6
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 6,
+                "actual_load": 5
+            },
+            {
+                "interval_duration": 60,
+                "expected_load": 7,
+                "actual_load": 7
+            },
+            {
+                "interval_duration": 60,
+                "expected_load": 8,
+                "actual_load": 7
+            },
+            {
+                "interval_duration": 60,
+                "expected_load": 9,
+                "actual_load": 8
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 8,
+                "actual_load": 9
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 6,
+                "actual_load": 5
+            }
+        ]
+    },
+    {
+        "cafeteria_id": "cafeteria_2",
+        "cafeteria_name": "Cafeteria on Myasnitskaya",
+        "photo": "https://picsum.photos/90",
+        "address": "Myasnitskaya Street, 20",
+        "coordinates":
+        {
+            "latitude": 55.760264,
+            "longitude": 37.631124
+        },
+        "has_menu": true,
+        "navigation":
+        {
+            "floor": "Ground Floor",
+            "room_number": "001"
+        },
+        "current_load": "low",
+        "load":
+        [
+            {
+                "interval_duration": 60,
+                "expected_load": 2,
+                "actual_load": 1
+            },
+            {
+                "interval_duration": 60,
+                "expected_load": 2,
+                "actual_load": 2
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 3,
+                "actual_load": 2
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 3,
+                "actual_load": 3
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 4,
+                "actual_load": 3
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 4,
+                "actual_load": 4
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 4,
+                "actual_load": 3
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 3,
+                "actual_load": 2
+            }
+        ]
+    },
+    {
+        "cafeteria_id": "cafeteria_3",
+        "cafeteria_name": "Cafeteria on Myasnitskaya 2",
+        "photo": "https://example.com/photos/cafeteria_myasnitskaya2.jpg",
+        "address": "Myasnitskaya Street, 16",
+        "coordinates":
+        {
+            "latitude": 55.760264,
+            "longitude": 37.631124
+        },
+        "distance_meters": 300,
+        "has_menu": true,
+        "description": "Enjoy our diverse menu in a cozy atmosphere.",
+        "navigation":
+        {
+            "floor": "2nd Floor",
+            "room_number": "201"
+        },
+        "photos":
+        [
+            "https://picsum.photos/360/270",
+            "https://picsum.photos/360/270",
+            "https://picsum.photos/360/270",
+            "https://picsum.photos/360/270"
+        ],
+        "banner": "Welcome to Cafeteria on Myasnitskaya 2!",
+        "current_load": "normal",
+        "load":
+        [
+            {
+                "interval_duration": 30,
+                "expected_load": 4,
+                "actual_load": 3
+            },
+            {
+                "interval_duration": 60,
+                "expected_load": 5,
+                "actual_load": 4
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 6,
+                "actual_load": 5
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 7,
+                "actual_load": 6
+            },
+            {
+                "interval_duration": 60,
+                "expected_load": 8,
+                "actual_load": 7
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 9,
+                "actual_load": 8
+            },
+            {
+                "interval_duration": 60,
+                "expected_load": 8,
+                "actual_load": 7
+            },
+            {
+                "interval_duration": 60,
+                "expected_load": 6,
+                "actual_load": 5
+            }
+        ]
+    },
+    {
+        "cafeteria_id": "cafeteria_2",
+        "cafeteria_name": "Cafeteria on Myasnitskaya",
+        "photo": "https://picsum.photos/90",
+        "address": "Myasnitskaya Street, 20 и еще куча символов в этом адресе, что хер доберешься",
+        "coordinates":
+        {
+            "latitude": 55.760264,
+            "longitude": 37.631124
+        },
+        "distance_meters": 150,
+        "has_menu": true,
+        "description": "Visit our cafeteria for a delightful dining experience.",
+        "navigation":
+        {
+            "floor": 4,
+            "room": 788
+        },
+        "photos":
+        [
+            "https://picsum.photos/360/270",
+            "https://picsum.photos/360/270",
+            "https://picsum.photos/360/270",
+            "https://picsum.photos/360/270"
+        ],
+        "banner": "Welcome to Cafeteria on Myasnitskaya!",
+        "current_load": "low",
+        "load":
+        [
+            {
+                "interval_duration": 60,
+                "expected_load": 2,
+                "actual_load": 1
+            },
+            {
+                "interval_duration": 60,
+                "expected_load": 2,
+                "actual_load": 2
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 3,
+                "actual_load": 2
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 3,
+                "actual_load": 3
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 4,
+                "actual_load": 3
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 4,
+                "actual_load": 4
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 4,
+                "actual_load": 3
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 3,
+                "actual_load": 2
+            }
+        ]
+    },
+    {
+        "cafeteria_id": "cafeteria_3",
+        "cafeteria_name": "Cafeteria on Myasnitskaya 2 с длинным названием, но при этом без меню",
+        "photo": "https://picsum.photos/90",
+        "address": "Myasnitskaya Street, 16",
+        "coordinates":
+        {
+            "latitude": 55.760264,
+            "longitude": 37.631124
+        },
+        "distance_meters": 300,
+        "has_menu": false,
+        "description": "Enjoy our diverse menu in a cozy atmosphere.",
+        "navigation":
+        {
+            "floor": 4,
+            "room": 788
+        },
+        "photos":
+        [
+            "https://picsum.photos/360/270",
+            "https://picsum.photos/360/270",
+            "https://picsum.photos/360/270",
+            "https://picsum.photos/360/270"
+        ],
+        "banner": "Welcome to Cafeteria on Myasnitskaya 2!",
+        "current_load": "normal",
+        "load":
+        [
+            {
+                "interval_duration": 30,
+                "expected_load": 4,
+                "actual_load": 3
+            },
+            {
+                "interval_duration": 60,
+                "expected_load": 5,
+                "actual_load": 4
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 6,
+                "actual_load": 5
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 7,
+                "actual_load": 6
+            },
+            {
+                "interval_duration": 60,
+                "expected_load": 8,
+                "actual_load": 7
+            },
+            {
+                "interval_duration": 30,
+                "expected_load": 9,
+                "actual_load": 8
+            },
+            {
+                "interval_duration": 60,
+                "expected_load": 8,
+                "actual_load": 7
+            },
+            {
+                "interval_duration": 60,
+                "expected_load": 6,
+                "actual_load": 5
+            }
+        ]
+    }
+]

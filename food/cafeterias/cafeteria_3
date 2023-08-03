@@ -1,0 +1,59 @@
+{
+    "cafeteria_id": "cafeteria_3",
+    "cafeteria_name": "Cafeteria on Myasnitskaya 2 с длинным названием, но при этом без меню",
+    "coordinates":
+    {
+        "latitude": 55.760264,
+        "longitude": 37.631124
+    },
+    "has_menu": false,
+    "navigation":
+    {
+        "floor": 4,
+        "room": 788
+    },
+    "current_load": "normal",
+    "load":
+    [
+        {
+            "interval_duration": 30,
+            "expected_load": 4,
+            "actual_load": 3
+        },
+        {
+            "interval_duration": 60,
+            "expected_load": 5,
+            "actual_load": 4
+        },
+        {
+            "interval_duration": 30,
+            "expected_load": 6,
+            "actual_load": 5
+        },
+        {
+            "interval_duration": 30,
+            "expected_load": 7,
+            "actual_load": 6
+        },
+        {
+            "interval_duration": 60,
+            "expected_load": 8,
+            "actual_load": 7
+        },
+        {
+            "interval_duration": 30,
+            "expected_load": 9,
+            "actual_load": 8
+        },
+        {
+            "interval_duration": 60,
+            "expected_load": 8,
+            "actual_load": 7
+        },
+        {
+            "interval_duration": 60,
+            "expected_load": 6,
+            "actual_load": 5
+        }
+    ]
+}

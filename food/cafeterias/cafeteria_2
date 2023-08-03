@@ -1,0 +1,66 @@
+{
+    "cafeteria_id": "cafeteria_2",
+    "cafeteria_name": "Cafeteria on Myasnitskaya",
+    "photo": "https://picsum.photos/90",
+    "address": "Myasnitskaya Street, 20 и еще куча символов в этом адресе, что хер доберешься",
+    "coordinates":
+    {
+        "latitude": 55.760264,
+        "longitude": 37.631124
+    },
+    "distance_meters": 150,
+    "has_menu": true,
+    "description": "Visit our cafeteria for a delightful dining experience.",
+    "photos":
+    [
+        "https://picsum.photos/360/270",
+        "https://picsum.photos/360/270",
+        "https://picsum.photos/360/270",
+        "https://picsum.photos/360/270"
+    ],
+    "banner": "Welcome to Cafeteria on Myasnitskaya!",
+    "current_load": "low",
+    "load":
+    [
+        {
+            "interval_duration": 60,
+            "expected_load": 2,
+            "actual_load": 1
+        },
+        {
+            "interval_duration": 60,
+            "expected_load": 2,
+            "actual_load": 2
+        },
+        {
+            "interval_duration": 30,
+            "expected_load": 3,
+            "actual_load": 2
+        },
+        {
+            "interval_duration": 30,
+            "expected_load": 3,
+            "actual_load": 3
+        },
+        {
+            "interval_duration": 30,
+            "expected_load": 4,
+            "actual_load": 3
+        },
+        {
+            "interval_duration": 30,
+            "expected_load": 4,
+            "actual_load": 4
+        },
+        {
+            "interval_duration": 30,
+            "expected_load": 4,
+            "actual_load": 3
+        },
+        {
+            "interval_duration": 30,
+            "expected_load": 3,
+            "actual_load": 2
+        }
+    ]
+}
