@@ -130,7 +130,7 @@
   },
   {
     "campus_id": "campus_3",
-    "campus_name": "HSE South Campus"
+    "campus_name": "HSE South Campus",
     "cafes": [
       {
         "cafe_id": "cafe_3",
