@@ -1,29 +1,23 @@
 {
-    "cafeteria_id": "cafeteria_1",
-    "cafeteria_name": "Cafeteria on Pokrovka",
-    "photo": "https://picsum.photos/90",
-    "address": "Pokrovka Street, 11",
-    "coordinates":
-    {
-        "latitude": 55.760526,
-        "longitude": 37.639701
-    },
-    "distance_meters": 200,
-    "has_menu": true,
-    "description": "This cafeteria offers a variety of delicious meals for students and staff. This cafeteria offers a variety of delicious meals for students and staff. This cafeteria offers a variety of delicious meals for students and staff. This cafeteria offers a variety of delicious meals for students and staff.",
-    "navigation":
-    {
-        "floor": 4,
-        "room": 788
-    },
-    "photos":
-    [
-        "https://picsum.photos/360/270",
-        "https://picsum.photos/360/270",
-        "https://picsum.photos/360/270",
-        "https://picsum.photos/360/270"
-    ],
-    "banner": "Welcome to Cafeteria on Pokrovka!",
+  "cafe_id": "cafe_1",
+  "cafe_name": "Green Eats",
+  "photo": "https://picsum.photos/90?id=301",
+  "address": "456 Elm St, Campus 2",
+  "coordinates": {
+    "lat": 55.770085,
+    "lng": 37.579934
+  },
+  "has_menu": true,
+  "description": "An eco-friendly cafe with healthy choices.",
+  "navigation": {
+    "floor": 4,
+    "room": 788
+  },
+  "photos": [
+    "https://picsum.photos/360/270?id=401",
+    "https://picsum.photos/360/270?id=402"
+  ],
+    "banner": "Welcome to cafe on Pokrovka!",
     "current_load": "normal",
     "load":
     [

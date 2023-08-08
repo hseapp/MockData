@@ -1,0 +1,190 @@
+[
+  {
+    "campus_id": "campus_1",
+    "campus_name": "HSE Main Campus",
+    "coordinates": {
+      "lat": 55.755814,
+      "lng": 37.617635
+    },
+    "cafes": [
+      {
+        "cafe_id": "cafe_1",
+        "cafe_name": "Cafe deLicious",
+        "photo": "https://picsum.photos/90?id=101",
+        "address": "123 Main St, Campus 1",
+        "coordinates": {
+          "lat": 55.755814,
+          "lng": 37.617635
+        },
+        "has_menu": true,
+        "description": "A cozy cafe with a wide variety of dishes.",
+        "navigation": {
+          "floor": 1,
+          "room": 101
+        },
+        "photos": [
+          "https://picsum.photos/360/270?id=201",
+          "https://picsum.photos/360/270?id=202"
+        ],
+        "banner": "Special offer: Free dessert with any main course!",
+        "opening_hours": [
+          {
+            "day_of_week": "monday",
+            "is_open": true,
+            "start_time": "09:00",
+            "end_time": "18:00"
+          },
+          {
+            "day_of_week": "tuesday",
+            "is_open": true,
+            "start_time": "09:00",
+            "end_time": "18:00"
+          }
+        ],
+        "current_load": "normal",
+        "load": [
+          {
+            "interval_duration": 30,
+            "expected_load": 5,
+            "actual_load": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "campus_id": "campus_2",
+    "campus_name": "HSE North Campus",
+    "coordinates": {
+      "lat": 55.770085,
+      "lng": 37.579934
+    },
+    "cafes": [
+      {
+        "cafe_id": "cafe_2",
+        "cafe_name": "Green Eats",
+        "photo": "https://picsum.photos/90?id=301",
+        "address": "456 Elm St, Campus 2",
+        "coordinates": {
+          "lat": 55.770085,
+          "lng": 37.579934
+        },
+        "has_menu": true,
+        "description": "An eco-friendly cafe with healthy choices.",
+        "navigation": {
+          "floor": 2,
+          "room": 201
+        },
+        "photos": [
+          "https://picsum.photos/360/270?id=401",
+          "https://picsum.photos/360/270?id=402"
+        ],
+        "opening_hours": [
+          {
+            "day_of_week": "monday",
+            "is_open": true,
+            "start_time": "08:30",
+            "end_time": "17:30"
+          },
+          {
+            "day_of_week": "tuesday",
+            "is_open": true,
+            "start_time": "08:30",
+            "end_time": "17:30"
+          },
+          {
+            "day_of_week": "wedneday",
+            "is_open": true,
+            "start_time": "08:30",
+            "end_time": "17:30"
+          },
+          {
+            "day_of_week": "thursday",
+            "is_open": true,
+            "start_time": "08:30",
+            "end_time": "17:30"
+          },
+          {
+            "day_of_week": "friday",
+            "is_open": true,
+            "start_time": "08:30",
+            "end_time": "17:30"
+          },
+          {
+            "day_of_week": "saturday",
+            "is_open": true,
+            "start_time": "08:30",
+            "end_time": "17:30"
+          },
+          {
+            "day_of_week": "sunday",
+            "is_open": true,
+            "start_time": "08:30",
+            "end_time": "17:30"
+          }
+        ],
+        "current_load": "low",
+        "load": []
+      }
+    ]
+  },
+  {
+    "campus_id": "campus_3",
+    "campus_name": "HSE South Campus"
+    "cafes": [
+      {
+        "cafe_id": "cafe_3",
+        "cafe_name": "Taste Buds",
+        "photo": "https://picsum.photos/90?id=501",
+        "address": "789 Oak St, Campus 3",
+        "has_menu": false,
+        "description": "Experience a diverse range of flavors.",
+        "navigation": {
+          "floor": 3,
+          "room": 301
+        },
+        "photos": [],
+        "banner": "New seasonal menu now available!",
+        "opening_hours": [
+          {
+            "day_of_week": "tuesday",
+            "is_open": true,
+            "start_time": "10:00",
+            "end_time": "19:00"
+          },
+          {
+            "day_of_week": "friday",
+            "is_open": false
+          }
+        ],
+        "current_load": "high",
+        "load": [
+          {
+            "interval_duration": 60,
+            "expected_load": 9,
+            "actual_load": 10
+          }
+        ]
+      },
+      {
+        "cafe_id": "cafe_4",
+        "cafe_name": "Более длинное странное название заведения хрен знает как так",
+        "has_menu": false,
+        "description": "Experience a diverse range of flavors.",
+        "photos": [],
+        "opening_hours": [
+          {
+            "day_of_week": "tuesday",
+            "is_open": true,
+            "start_time": "10:00",
+            "end_time": "19:00"
+          },
+          {
+            "day_of_week": "friday",
+            "is_open": false
+          }
+        ]
+      }
+    ]
+  }
+]

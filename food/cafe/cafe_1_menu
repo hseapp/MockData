@@ -1,5 +1,5 @@
 {
-    "cafeteria_id": "cafeteria_1",
+    "cafe_id": "cafe_1",
     "sections":
     [
         {
@@ -17,8 +17,8 @@
                     ],
                     "complex": true,
                     "vegetarian_complex": false,
-                    "vegetarian": false,
-                    "dietary": false,
+                    "is_vegetarian": false,
+                    "is_dietary": false,
                     "weight": "200g",
                     "calories": "250 kcal",
                     "composition": "Grilled chicken with side salad"
@@ -34,8 +34,8 @@
                     "price": 380,
                     "complex": true,
                     "vegetarian_complex": true,
-                    "vegetarian": true,
-                    "dietary": false
+                    "is_vegetarian": true,
+                    "is_dietary": false
                 },
                 {
                     "item_id": "dish_3",
@@ -43,8 +43,8 @@
                     "price": 520,
                     "complex": true,
                     "vegetarian_complex": false,
-                    "vegetarian": false,
-                    "dietary": false,
+                    "is_vegetarian": false,
+                    "is_dietary": false,
                     "calories": "350 kcal",
                     "composition": "Beef strips with onions and mushrooms in a creamy sauce"
                 },
@@ -53,8 +53,8 @@
                     "item_name": "Grilled Salmon",
                     "complex": false,
                     "vegetarian_complex": false,
-                    "vegetarian": false,
-                    "dietary": false
+                    "is_vegetarian": false,
+                    "is_dietary": false
                 }
             ]
         },
@@ -73,8 +73,8 @@
                     "price": 250,
                     "complex": false,
                     "vegetarian_complex": false,
-                    "vegetarian": true,
-                    "dietary": false,
+                    "is_vegetarian": true,
+                    "is_dietary": false,
                     "calories": "180 kcal",
                     "composition": "Romaine lettuce, croutons, Parmesan cheese, Caesar dressing"
                 },
@@ -89,8 +89,8 @@
                     "price": 200,
                     "complex": false,
                     "vegetarian_complex": false,
-                    "vegetarian": true,
-                    "dietary": true,
+                    "is_vegetarian": true,
+                    "is_dietary": true,
                     "weight": "160g",
                     "composition": "Cucumbers, tomatoes, olives, feta cheese, olive oil"
                 },
@@ -104,8 +104,8 @@
                     ],
                     "complex": false,
                     "vegetarian_complex": false,
-                    "vegetarian": true,
-                    "dietary": true,
+                    "is_vegetarian": true,
+                    "is_dietary": true,
                     "weight": "120g",
                     "calories": "140 kcal",
                     "composition": "Tomatoes, mozzarella, basil, balsamic glaze"
@@ -126,8 +126,8 @@
                     ],
                     "complex": false,
                     "vegetarian_complex": false,
-                    "vegetarian": false,
-                    "dietary": false,
+                    "is_vegetarian": false,
+                    "is_dietary": false,
                     "calories": "180 kcal",
                     "composition": "Chicken broth with noodles and vegetables"
                 },
@@ -142,8 +142,8 @@
                     "price": 240,
                     "complex": false,
                     "vegetarian_complex": false,
-                    "vegetarian": true,
-                    "dietary": true,
+                    "is_vegetarian": true,
+                    "is_dietary": true,
                     "weight": "220g",
                     "calories": "160 kcal",
                     "composition": "Tomato soup with fresh basil"
@@ -165,8 +165,8 @@
                     "price": 220,
                     "complex": false,
                     "vegetarian_complex": false,
-                    "vegetarian": true,
-                    "dietary": true,
+                    "is_vegetarian": true,
+                    "is_dietary": true,
                     "weight": "150g",
                     "calories": "220 kcal",
                     "composition": "Rich chocolate cake with a velvety texture"
@@ -182,8 +182,8 @@
                     "price": 10,
                     "complex": false,
                     "vegetarian_complex": false,
-                    "vegetarian": true,
-                    "dietary": true,
+                    "is_vegetarian": true,
+                    "is_dietary": true,
                     "weight": "180g",
                     "calories": "90 kcal",
                     "composition": "Assorted fresh fruits with a drizzle of honey"
@@ -199,8 +199,8 @@
                     "price": 4,
                     "complex": false,
                     "vegetarian_complex": false,
-                    "vegetarian": true,
-                    "dietary": false,
+                    "is_vegetarian": true,
+                    "is_dietary": false,
                     "weight": "160g",
                     "calories": "270 kcal",
                     "composition": "Classic Italian dessert with coffee and mascarpone cheese"

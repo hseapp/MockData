@@ -1,6 +1,6 @@
 {
-    "cafeteria_id": "cafeteria_3",
-    "cafeteria_name": "Cafeteria on Myasnitskaya 2 с длинным названием, но при этом без меню",
+    "cafe_id": "cafe_3",
+    "cafe_name": "cafe on Myasnitskaya 2 с длинным названием, но при этом без меню",
     "coordinates":
     {
         "latitude": 55.760264,
