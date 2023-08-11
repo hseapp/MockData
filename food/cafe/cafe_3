@@ -3,8 +3,8 @@
     "cafe_name": "cafe on Myasnitskaya 2 с длинным названием, но при этом без меню",
     "coordinates":
     {
-        "latitude": 55.760264,
-        "longitude": 37.631124
+        "lat": 55.760264,
+        "lng": 37.631124
     },
     "has_menu": false,
     "navigation":
